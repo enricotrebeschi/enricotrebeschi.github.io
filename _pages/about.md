@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Università degli Studi di Pavia</a>. Via Ferrata 5, 27100 Pavia, Italy.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office C27, Department Felice Casorati</p>
+    <p>Via Ferrata 5</p>
+    <p>27100 Pavia, Italy</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently finishing my PhD at [Università di Pavia](https://matematica.unipv.it/) and [Université Grenoble Alpes](https://www-fourier.ujf-grenoble.fr/), under the supervision of [Francesco Bonsante](https://mate.unipv.it/~bonsante/) and [Andrea Seppi](http://seppi.perso.math.cnrs.fr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since January, I will be Post-Doc at [Université Côte-Azul](https://math.univ-cotedazur.fr/), menthored by [François Labourie](http://flab.perso.math.cnrs.fr/) and [Jérémy Toulisse](https://math.univ-cotedazur.fr/~jtoulisse/main.html), under the project [AnSur](http://flab.perso.math.cnrs.fr/AnSur/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I studied for both my Bachelor and Master thesis at [Università di Bologna](https://matematica.unibo.it/). I wrote my Bachelor thesis under the supervision of [Stefano Francaviglia](http://www.dm.unibo.it/~francavi/), and my Master thesis under the supervision of [Stefano Francaviglia](http://www.dm.unibo.it/~francavi/) and [Andrea Seppi](http://seppi.perso.math.cnrs.fr/).
