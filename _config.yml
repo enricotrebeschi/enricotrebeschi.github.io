@@ -251,6 +251,7 @@ exclude:
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _pages/news.md
 keep_files:
   - CNAME
   - .nojekyll
