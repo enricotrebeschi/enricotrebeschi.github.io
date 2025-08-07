@@ -8,6 +8,13 @@
     - name: Languages
       value: English, French, Italian
 
+- title: Position
+  type: time_table
+  contents:
+    - title: Post-Doc
+      institution: Université Côte Azur
+      year: 2025-on going
+
 - title: Education
   type: time_table
   contents:
